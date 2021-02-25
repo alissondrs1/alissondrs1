@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alisson %20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonn/)](https://www.linkedin.com/in/alissonn/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonn/)](https://www.linkedin.com/in/alissonn/) 
 [![Gmail Badge](https://img.shields.io/badge/-alisson.daniel63@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alisson.daniel63@gmail.com)](alisson.daniel63@gmail.com)
 
 <!--
